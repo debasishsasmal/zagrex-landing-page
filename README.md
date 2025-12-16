@@ -1,6 +1,6 @@
 # 🛡️ Zagrex - Modern Fintech Landing Page
 
-![Zagrex Banner](desktop-preview.png)
+![logo](https://github.com/user-attachments/assets/22f62530-2186-41b1-b2f1-7fa98e5e667b)
 
 ### 🚀 **Live Demo:** [Click Here to View Live Website](https://dapper-sunflower-6ca90a.netlify.app/)
 
