@@ -44,9 +44,6 @@ This project is a submission for the **ADSOUK Designer Intern Assignment**.
 ### Desktop View
 <img width="1279" height="886" alt="Screenshot 2025-12-16 194133" src="https://github.com/user-attachments/assets/4853788f-8219-44c0-9e0d-c8a7fa16db12" />
 
-### Mobile Responsive View
-<img src="mobile-preview.png" width="300" alt="Mobile Screenshot">
-
 ---
 
 ## 💻 How to Run Locally
